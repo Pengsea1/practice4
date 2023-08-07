@@ -1,6 +1,6 @@
 1. Create a repository in the github
 2. Upload a text file in github repo. 
-3. Create a new branch.
+3. Change text of line 3 from other repo
 4. GO to the new branch and Change/add the textfile in line no 3. 
 5. GO to the main branch and Change/add the textfile in line no 3.
 6. Try to merge it from main.
