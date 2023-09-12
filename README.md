@@ -4,3 +4,5 @@ for exam
 
 Create Image and Push it in the docker hub. Then deploy it in the minikube cluster. Call that API from postman and display result
 
+[Answer2.pdf](https://github.com/Pengsea1/practice4/files/12582104/Answer2.pdf)
+[Answer.pdf](https://github.com/Pengsea1/practice4/files/12582105/Answer.pdf)
